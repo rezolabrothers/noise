@@ -4,7 +4,7 @@
 
 Profit/loss data
 
-![PL](https://latex.codecogs.com/gif.latex?%5Cbg_black%20%5Cfn_jvn%20PL%20%3D%20P_%7Bt%7D%20&plus;%20D_%7Bt%7D%20-%20P_%7Bt-1%7D)
+![PL](https://latex.codecogs.com/gif.latex?%5Cbg_black%20%5Cfn_cm%20PL%20%3D%20P_%7Bt%7D%20&plus;%20D_%7Bt%7D%20-%20P_%7Bt-1%7D)
 
 Present value for profit/loss data
 
